@@ -1,5 +1,5 @@
 # Anton Drabkou
-![photo](/photo.jpeg "CV photo")
+![photo](photo.jpeg "CV photo")
 * Anton_Drabkou (@AntonD2203)
 * antondrabkou@gmail.com
 * +48723645324
