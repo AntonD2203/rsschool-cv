@@ -15,7 +15,7 @@
 + Web Development Fundamentals: HTML and CSS (Basics, positioning with Flexbox and adaptive layouts)
 + JavaScript: Fundamentals, functions, objects, arrays and working with the DOM
 + Tools: Chrome Dev Tools, VS Code, Terminal, and Figma
-+ Project-based learning: Project CV (Markdown, HTML, CSS, and Git)
++ Project-based learning: Project CV (Markdown, HTML, CSS, and Git) - https://github.com/AntonD2203/rsschool-cv
 + Library Project: Fixed and adaptive layout, adding functionality
 + CSS Mem Slider: Advanced CSS project
 + JS-30 projects: Audio player, image gallery and random game
