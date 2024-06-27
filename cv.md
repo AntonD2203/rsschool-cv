@@ -57,6 +57,8 @@ let sum = 0;
 
 ## TRAINING COURSES
 * JS/FE Pre-School 2024Q2, The Rolling Scopes School, 2024
+* Automated Testing Mentoring with JS: Basic, EPAM, 2022
+* JavaScript for Software Testing Engineers Mentoring Program #5, EPAM, 2022
 * Software testing course, Educational Center for Programming and High Tech, 2021
 
 ## EDUCATION
