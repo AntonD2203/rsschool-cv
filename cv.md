@@ -12,23 +12,22 @@
 ## WORK EXPERIENCE
 
 * Student (JS/FE), The Rolling Scopes School, [rs.school](https://rs.school), Jun-2024 - present
-+ Web Development Fundamentals: HTML and CSS (Basics, positioning with Flexbox and adaptive layouts)
-+ JavaScript: Fundamentals, functions, objects, arrays and working with the DOM
-+ Tools: Chrome Dev Tools, VS Code, Terminal, and Figma
-+ Project-based learning: Project CV (Markdown, HTML, CSS, and Git) - [github.com/AntonD2203/rsschool-cv](https://github.com/AntonD2203/rsschool-cv)
-
-+ Library Project: Fixed and adaptive layout, adding functionality
-+ CSS Mem Slider: Advanced CSS project
-+ JS-30 projects: Audio player, image gallery and random game
-+ Codewars Tasks: Weekly challenges on algorithms and data structures
+    + Web Development Fundamentals: HTML and CSS (Basics, positioning with Flexbox and adaptive layouts)
+    + JavaScript: Fundamentals, functions, objects, arrays and working with the DOM
+    + Tools: Chrome Dev Tools, VS Code, Terminal, and Figma
+    + Project-based learning: Project CV (Markdown, HTML, CSS, and Git) - [github.com/AntonD2203/rsschool-cv](https://github.com/AntonD2203/rsschool-cv)
+    + Library Project: Fixed and adaptive layout, adding functionality
+    + CSS Mem Slider: Advanced CSS project
+    + JS-30 projects: Audio player, image gallery and random game
+    + Codewars Tasks: Weekly challenges on algorithms and data structures
 
 * Software Quality Engineer, EPAM Systems, [epam.com](https://www.epam.com), Jun-2021 - present
-+ Business Areas: Life Sciences & Healthcare, Retail & Distribution, Asset & Wealth Management
-+ Working with project documentation: test plan, checklists, test cases, and following guidelines set by the test plan
-+ Performing manual testing: functional, GUI, and localization testing of web applications
-+ Performing automated testing: creating and refactoring automated test scripts (BDD approach) and executing automated regression testing (Web UI and API)
-+ Reporting, tracking, and verifying defects
-+ Working in a shared SCRUM team
+    + Business Areas: Life Sciences & Healthcare, Retail & Distribution, Asset & Wealth Management
+    + Working with project documentation: test plan, checklists, test cases, and following guidelines set by the test plan
+    + Performing manual testing: functional, GUI, and localization testing of web applications
+    + Performing automated testing: creating and refactoring automated test scripts (BDD approach) and executing automated regression testing (Web UI and API)
+    + Reporting, tracking, and verifying defects
+    + Working in a shared SCRUM team
 
 ## CODE EXAMPLE
 
